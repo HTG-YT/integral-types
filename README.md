@@ -1,4 +1,4 @@
-# number-types
+# integral_types
 A Python Third-Party Library for various numeric types.
 
 ## Installation
@@ -7,7 +7,7 @@ Run `pip install number-types` to install this library.
 ## Usage
 To create a variable with the types provided in the library, do this:
 ```python
-from number_types import *
+from integral_types import *
 
 byte = Byte(1)
 ubyte = UByte(1)
