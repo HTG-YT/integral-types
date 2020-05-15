@@ -7,7 +7,7 @@ Run `pip install number-types` to install this library.
 ## Usage
 To create a variable with the types provided in the library, do this:
 ```python
-from number-types import *
+from number_types import *
 
 byte = Byte(1)
 ubyte = UByte(1)
