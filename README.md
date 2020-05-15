@@ -16,3 +16,6 @@ ushort = UShort(1)
 long = Long(1)
 ulong = ULong(1)
 ```
+
+## Contribution
+Feel free to create an issue when you encounter problems with the library, or want to suggest additional features to be added to the library!
